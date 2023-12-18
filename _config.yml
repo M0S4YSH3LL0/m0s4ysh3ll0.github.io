@@ -166,7 +166,8 @@ gtag: "G-1PPQ5S4TCG"
 #cloudflare_analytics: ""
 
 # Google Tag Manager ID
-gtm: "GTM-W92K3LSX"
+#gtm: "GTM-W92K3LSX"
+gtm: "GT-PHXVRLJ"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
